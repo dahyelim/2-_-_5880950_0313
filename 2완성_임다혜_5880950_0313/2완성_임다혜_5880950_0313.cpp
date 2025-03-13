@@ -4,5 +4,5 @@
 int main() {
 	double num = 0;
 	printf("실수를 입력하세요 : ");
-	scanf("%f", &num);
+	//scanf("%f", &num);
 }
